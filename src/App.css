@@ -1,0 +1,15 @@
+.app {
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.highlight {
+    background-color: #fff2ac;
+    background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);
+}
+
+.search-form {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
